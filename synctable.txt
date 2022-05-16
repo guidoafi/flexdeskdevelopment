@@ -1,6 +1,6 @@
 Task für das Flexdeskmanagement
 
-Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : OK
+Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : NOK
 Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet): NOK 
 Buchung: Eine Buchung sollte anpassen/löschen möglich sein: NOK
 Buchunskonflikte: Fehlermeldund anzeigen: NOK

@@ -4,6 +4,6 @@ Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : NOK
 Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen : NOK 
 Buchung: Eine Buchung sollte anpassen/löschen möglich sein: NOK
 Buchunskonflikte: Fehlermeldund anzeigen: NOK
-Account: Mehr als 10 zeichen für Passwort : NOX
-Account: Passwort Reset : NOK
+Account: Mehr als 10 zeichen für Passwort ermöglichen : NOX
+Account: Das Passwort muss man zurücksetzen können : NOK
 

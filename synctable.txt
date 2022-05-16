@@ -6,4 +6,7 @@ Buchung: Eine Buchung sollte anpassen/löschen möglich sein: NOK
 Buchunskonflikte: Fehlermeldund anzeigen: NOK
 Account: Mehr als 10 zeichen für Passwort ermöglichen : NOX
 Account: Das Passwort muss man zurücksetzen können : NOK
+Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden:  NOK
+Spontanbuchung: Löschen einbauen: NOK
+Zu Hause Buchung: Payload einbauen damit dies verhindert wird: NOK
 

@@ -2,3 +2,5 @@ Task für das Flexdeskmanagement
 
 Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : NOK
 Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen : NOK 
+Buchung: Eine Buchung sollte anpassen/löschen möglich sein: NOK
+Buchunskonflikte: Fehlermeldund anzeigen: NOK

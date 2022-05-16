@@ -1,7 +1,7 @@
 Task für das Flexdeskmanagement
 
 Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : NOK
-Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen : NOK 
+Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet): NOK 
 Buchung: Eine Buchung sollte anpassen/löschen möglich sein: NOK
 Buchunskonflikte: Fehlermeldund anzeigen: NOK
 Account: Mehr als 10 zeichen für Passwort ermöglichen : NOX
@@ -10,4 +10,4 @@ Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden:  NOK
 Spontanbuchung: Löschen einbauen: NOK
 Zu Hause Buchung: Payload einbauen damit dies verhindert wird: NOK
 Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt: NOK
-
+Büro 487 : Tisch CEO und Assistenz blau: NOK

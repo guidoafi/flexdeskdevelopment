@@ -9,4 +9,5 @@ Account: Das Passwort muss man zurücksetzen können : NOK
 Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden:  NOK
 Spontanbuchung: Löschen einbauen: NOK
 Zu Hause Buchung: Payload einbauen damit dies verhindert wird: NOK
+Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt: NOK
 

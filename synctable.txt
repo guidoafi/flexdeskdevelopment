@@ -1,0 +1,5 @@
+Task für das Flexdeskmanagement
+
+Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : NOK
+
+Anzeigen Sensoren : 

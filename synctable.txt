@@ -11,3 +11,4 @@ Spontanbuchung: Löschen einbauen: NOK
 Zu Hause Buchung: Payload einbauen damit dies verhindert wird: NOK
 Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt: NOK
 Büro 487 : Tisch CEO und Assistenz blau: NOK
+Porpellerbar: In der Buchungsliste "Propeller Bar" schreiben : NOK

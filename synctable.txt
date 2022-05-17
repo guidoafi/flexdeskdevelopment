@@ -15,3 +15,4 @@ Büro 487 : Tisch CEO und Assistenz blau: NOK
 Büro 201: Tisch 09 Fix (Blau) : NOK
 Icons für SiZi angeben: NOK
 Vollständige System- und Architektur Beschreibung, Darstellung: NOK
+Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein): NOK

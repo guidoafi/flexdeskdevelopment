@@ -16,3 +16,4 @@ Büro 201: Tisch 09 Fix (Blau) : NOK
 Icons für SiZi angeben: NOK
 Vollständige System- und Architektur Beschreibung, Darstellung: NOK
 Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein): NOK
+Raum 388, Terminserie für 17.5.22 und 18.5.22. 17.5.22 Reservation 10-14 im Outlook Status 'Zusage', auf Reserva Status 'Verfügbar'. Reservation für 18.5.22 wird in Reserva angezeigt.

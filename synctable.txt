@@ -14,7 +14,7 @@ Büro 487 : Tisch CEO und Assistenz blau: NOK
 Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben : NOK
 Büro 201: Tisch 09 Fix (Blau) : NOK
 Büro 241: Tisch 19 Fix (Blau) : NOK
-Icons für SiZi angeben: NOK
+Icons für SiZi angeben: NOK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/
 Vollständige System- und Architektur Projekt-Realisations-Dokumentation: NOK
 Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein): NOK
 Raum 388, Terminserie für 17.5.22 und 18.5.22. 17.5.22 Reservation 10-14 im Outlook Status 'Zusage', auf Reserva Status 'Verfügbar'. Reservation für 18.5.22 wird in Reserva angezeigt: NOK

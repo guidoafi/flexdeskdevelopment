@@ -1,21 +1,20 @@
 Task für das Flexdeskmanagement
-
+*******************************
 Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : OK
-Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet): NOK 
-Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein: NOK
-Buchunskonflikte: Fehlermeldund anzeigen: NOK
-Account: Mehr als 10 zeichen für Passwort ermöglichen : NOX
-Account: Das Passwort muss man zurücksetzen können : NOK
-Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden:  NOK
-Spontanbuchung am Display: Löschen einbauen: NOK
-Zu Hause Buchung: Payload einbauen damit dies verhindert wird: NOK
-Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt: NOK
-Büro 487 : Tisch CEO und Assistenz blau: NOK
-Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben : NOK
-Büro 201: Tisch 09 Fix (Blau) : NOK
-Büro 241: Tisch 19 Fix (Blau) : NOK
-Icons für SiZi angeben: NOK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/
-Vollständige System- und Architektur Projekt-Realisations-Dokumentation: NOK
-Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein): NOK
-Raum 388, Terminserie für 17.5.22 und 18.5.22. 17.5.22 Reservation 10-14 im Outlook Status 'Zusage', auf Reserva Status 'Verfügbar'. Reservation für 18.5.22 wird in Reserva angezeigt: NOK
-Think-Tank-Spontan-Reservation: Heute, 20.05.2022 um 08:05 wollte ich den Think-Tank im 242 von 08:05 bis 09:00 Uhr spontan reservieren. Dies ist nicht möglich. Die Spontan Reservation ist erst ab 08:30 Uhr möglich. Somit müsste ich die Sitzung um 08:05 starten und um 08:30 Uhr unterbrechen und draussen vor der Türe die Reservation aktivieren. Von 08:05 bis 08:30 Uhr bleibt die Anzeige grün, obwohl der Raum spontan besetzt ist. : NOK
+Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet). Bis 30.05.2022 : NOK 
+Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein. Erweiterung muss mit nochmaligem Scan eingetragen werden. Lösche mit nochmaligem Scan und dann löschen wählen. Bis 30.05.2022 : NOK
+Buchunskonflikte: Fehlermeldund anzeigen: OK
+Account: Mehr als 10 zeichen für Passwort ermöglichen Bis 30.05.2022 : NOX
+Account: Das Passwort muss man zurücksetzen können Bis 30.05.2022 : NOK
+Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden: Wurde zwar gemacht ergab neue Probleme mir SVG File. Schriftart Arial Black, Schriftgrösse 10: Guido passt die Files an bis 30.05.2022 :   NOK
+Spontanbuchung am Display: Löschen einbauen. Aus Erfahrung nicht empfehlenswert. Mögliches Vorgehen: Jürg hat Admin auf dem Kalender und kann so Änderungen vornehmen. : Muss im AFI mit Outlook Berechtigungen gelöst werden : OK
+Zu Hause Buchung: Payload einbauen damit dies verhindert wird.  Es sollen nur Adressen zh.ch einen Account lössen können. Alle anderen werden einfach nicht erstellt.  Beste Lösung wäre Single Signe On. : NOK Im POC nicht vorgesehen.
+Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt. Zeit muss mmer von Hand eingegeben werden : OK
+Büro 487 : Tisch CEO und Assistenz blau: OK
+Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben. Excelfile anpassen durch Jürg.  : NOK
+Büro 201: Tisch 09 Fix (Blau) Bis 30.05.2022 : NOK
+Büro 241: Tisch 19 Fix (Blau) Bis 30.05.2022 : NOK
+Icons für SiZi angeben. Mail wurde abgegeben. Bis 30.05.2022 : NOK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/
+Vollständige System- und Architektur Projekt-Realisations-Dokumentation : NOK
+Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein). Jürge sende die korrekten Informationen : NOK
+Think-Tank-Spontan-Reservation: Heute, 20.05.2022 um 08:05 wollte ich den Think-Tank im 242 von 08:05 bis 09:00 Uhr spontan reservieren. Dies ist nicht möglich. Die Spontan Reservation ist erst ab 08:30 Uhr möglich. Somit müsste ich die Sitzung um 08:05 starten und um 08:30 Uhr unterbrechen und draussen vor der Türe die Reservation aktivieren. Von 08:05 bis 08:30 Uhr bleibt die Anzeige grün, obwohl der Raum spontan besetzt ist. Muss genauer untersucht werden von Guido und Jürg : NOK

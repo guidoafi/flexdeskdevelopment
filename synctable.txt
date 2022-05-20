@@ -4,7 +4,7 @@ Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : OK
 Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet). Bis 30.05.2022 : NOK 
 Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein. Erweiterung muss mit nochmaligem Scan eingetragen werden. Lösche mit nochmaligem Scan und dann löschen wählen. Bis 30.05.2022 : NOK
 Buchunskonflikte: Fehlermeldund anzeigen: OK
-Account: Mehr als 10 zeichen für Passwort ermöglichen Bis 30.05.2022 : NOX
+Account: Mehr als 10 zeichen für Passwort ermöglichen Bis 30.05.2022 : NOK
 Account: Das Passwort muss man zurücksetzen können Bis 30.05.2022 : NOK
 Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden: Wurde zwar gemacht ergab neue Probleme mir SVG File. Schriftart Arial Black, Schriftgrösse 10: Guido passt die Files an bis 30.05.2022 :   NOK
 Spontanbuchung am Display: Löschen einbauen. Aus Erfahrung nicht empfehlenswert. Mögliches Vorgehen: Jürg hat Admin auf dem Kalender und kann so Änderungen vornehmen. : Muss im AFI mit Outlook Berechtigungen gelöst werden : OK

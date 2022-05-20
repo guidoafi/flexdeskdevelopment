@@ -13,7 +13,7 @@ Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen
 Büro 487 : Tisch CEO und Assistenz blau: OK
 Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben. Excelfile anpassen durch Jürg.  : NOK
 Büro 201: Tisch 09 Fix (Blau) Bis 30.05.2022 : NOK
-Büro 241: Tisch 19 Fix (Blau) Bis 30.05.2022 : NOK
+Büro 214: Tisch 19 Fix (Blau) Bis 30.05.2022 : NOK
 Icons für SiZi angeben. Mail wurde abgegeben. Bis 30.05.2022 : NOK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/
 Vollständige System- und Architektur Projekt-Realisations-Dokumentation : NOK
 Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein). Jürge sende die korrekten Informationen : NOK

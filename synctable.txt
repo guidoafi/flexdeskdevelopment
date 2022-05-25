@@ -1,7 +1,7 @@
 Task für das Flexdeskmanagement
 *******************************
 Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : OK
-Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet). Bis 30.05.2022 : NOK 
+Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet). Bis 30.05.2022 : OK 
 Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein. Erweiterung muss mit nochmaligem Scan eingetragen werden. Lösche mit nochmaligem Scan und dann löschen wählen. Bis 30.05.2022 : NOK
 Buchunskonflikte: Fehlermeldund anzeigen: OK
 Account: Mehr als 10 zeichen für Passwort ermöglichen Bis 30.05.2022 : NOK
@@ -11,7 +11,7 @@ Spontanbuchung am Display: Löschen einbauen. Aus Erfahrung nicht empfehlenswert
 Zu Hause Buchung: Payload einbauen damit dies verhindert wird.  Es sollen nur Adressen zh.ch einen Account lössen können. Alle anderen werden einfach nicht erstellt.  Beste Lösung wäre Single Signe On. : NOK Im POC nicht vorgesehen.
 Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt. Zeit muss mmer von Hand eingegeben werden : OK
 Büro 487 : Tisch CEO und Assistenz blau: OK
-Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben. Excelfile anpassen durch Jürg.  : NOK
+Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben. Excelfile anpassen durch Jürg.  : OK
 Büro 201: Tisch 09 Fix (Blau) Bis 30.05.2022 : OK
 Büro 214 (Korrektur: Tisch 241): Tisch 19 Fix (Blau) Bis 30.05.2022 : OK
 Icons für SiZi angeben. Mail wurde abgegeben. Bis 30.05.2022 : OK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/

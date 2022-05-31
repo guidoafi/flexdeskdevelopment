@@ -24,4 +24,5 @@ SiZi Monitor: Anzeige auch des Titels der Buchung: Pendenz JZI mit Jano. NOK
 31.5.2022 JZI: Auf Floorplan sollte ein Hinweis wie z.B. ein grosser Punkt angebracht werden, wo ich mich grad befinde um damit die Orientierung auf dem Plan zu erleichtern: NOK
 31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: NOK
 31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK
+31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: NOK
 

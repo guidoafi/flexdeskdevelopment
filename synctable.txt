@@ -22,7 +22,7 @@ SiZi Monitor: Anzeige auch des Titels der Buchung: Pendenz JZI mit Jano. NOK
 >31.5.22 JZI: Raum 242- Outlook Reservation wird auch ca. 10 Min. nach der Reservation nicht am Display angezeigt. Es kommt zwar eine Fehlermeldung, dass keine Buchung mehr möglich ist. (ev. auf Testbertrieb zurückzuführen): NOK
 >31.5.2022 JZI: Laufschrift 'Buchungsbeginn muss bestätigt werden' überdeckt teilweise eine Systemfehlermeldung 'Termin konnte nicht erstellt werden....' (siehe Foto Guido): NOK
 >31.5.2022 JZI: Auf Floorplan sollte ein Hinweis wie z.B. ein grosser Punkt angebracht werden, wo ich mich grad befinde um damit die Orientierung auf dem Plan zu erleichtern: NOK
->31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: NOK
->31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK
+>31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: NOK     // das 2.0G kam von Guido statt 2.OG wird aber geändert von uns
+>31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK   // nicht sofort, wird abgeklärt
 >31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: NOK
 

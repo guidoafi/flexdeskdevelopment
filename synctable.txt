@@ -2,31 +2,32 @@ Task für das Flexdeskmanagement
 *******************************
 Tischreservation mit dem Mobilephone : Aktuelle Zeit wählbar : OK
 Anzeigen Sensoren : Lesbare Namen bei den Messwerten einsetzen VOC=Luftqualität, CO2=CO2, Dbm=Geräuschpegel, Temperatur, Luftfeuchtigkeit (Erklärung: Durchschnitt der letzten 10 Minuten wird gesendet und eine neue Messung gestartet). Bis 30.05.2022 : OK 
-Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein. Erweiterung muss mit nochmaligem Scan eingetragen werden. Lösche mit nochmaligem Scan und dann löschen wählen. Bis 30.05.2022 : NOK - Inbetriebnahme Testbetrieb auch ohne dieses Feature möglich (JZI)
+NOK: Buchung: Eine Buchung über WEB-App sollte anpassen/löschen möglich sein. Erweiterung muss mit nochmaligem Scan eingetragen werden. Lösche mit nochmaligem Scan und dann löschen wählen. Bis 30.05.2022 : NOK - Inbetriebnahme Testbetrieb auch ohne dieses Feature möglich (JZI)
 Buchunskonflikte: Fehlermeldund anzeigen: OK
 Account: Mehr als 10 zeichen für Passwort ermöglichen Bis 30.05.2022 : OK
-Account: Das Passwort muss man zurücksetzen können Bis 30.05.2022 : NOK
-Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden: Wurde zwar gemacht ergab neue Probleme mir SVG File. Schriftart Arial Black, Schriftgrösse 10: Guido passt die Files an bis 30.05.2022 :   NOK
+NOK: Account: Das Passwort muss man zurücksetzen können Bis 30.05.2022 : NOK
+NOK: Monitor: SVG Schriftgrösse ist zu klein muss noch grösser gemacht werden: Wurde zwar gemacht ergab neue Probleme mir SVG File. Schriftart Arial Black, Schriftgrösse 10: Guido passt die Files an bis 30.05.2022 :   NOK
 Spontanbuchung am Display: Löschen einbauen. Aus Erfahrung nicht empfehlenswert. Mögliches Vorgehen: Jürg hat Admin auf dem Kalender und kann so Änderungen vornehmen. : Muss im AFI mit Outlook Berechtigungen gelöst werden : OK
-Zu Hause Buchung: Payload einbauen damit dies verhindert wird.  Es sollen nur Adressen zh.ch einen Account lössen können. Alle anderen werden einfach nicht erstellt.  Beste Lösung wäre Single Signe On. : NOK Im POC nicht vorgesehen.
+NOK: Zu Hause Buchung: Payload einbauen damit dies verhindert wird.  Es sollen nur Adressen zh.ch einen Account lössen können. Alle anderen werden einfach nicht erstellt.  Beste Lösung wäre Single Signe On. : NOK Im POC nicht vorgesehen.
 Zeiteingabe: Nach dem Scan sollte ich die aktuelle Zeit auswählbar sein. Buchen ab jetzt. Zeit muss mmer von Hand eingegeben werden : OK
 Büro 487 : Tisch CEO und Assistenz blau: OK
 Überall folgende Ausdrücke verwenden (Schreibweise): "Propeller-Bar", "Kudos-Lounge", "Sprint-Labor" schreiben. Excelfile anpassen durch Jürg.  : OK
 Büro 201: Tisch 09 Fix (Blau) Bis 30.05.2022 : OK
 Büro 214 (Korrektur: Tisch 241): Tisch 19 Fix (Blau) Bis 30.05.2022 : OK
 Icons für SiZi angeben. Mail wurde abgegeben. Bis 30.05.2022 : OK          /*Bitte angeben was bei welchem Raum vorhanden ist, dann wir des von Marc aktiviert*/
-02.6.22 JZI: Vollständige System- und Architektur Projekt-Realisations-Dokumentation. Hinweis Architektur: 'Die Übersichten sind gut, gibt es dazu noch Erklärungen/Beschreibungen in Konzept/Textform?  : NOK
+NOK: 02.6.22 JZI: Vollständige System- und Architektur Projekt-Realisations-Dokumentation. Hinweis Architektur: 'Die Übersichten sind gut, gibt es dazu noch Erklärungen/Beschreibungen in Konzept/Textform?  : NOK
 Flex Desk 242 (Y-Tisch): Buchung und Darstellung der Plätze auf Floorplan synchronisieren (Res. und Platz stimmen auf Floorplan überein). Jürge sende die korrekten Informationen : OK
-Think-Tank-Spontan-Reservation: Heute, 20.05.2022 um 08:05 wollte ich den Think-Tank im 242 von 08:05 bis 09:00 Uhr spontan reservieren. Dies ist nicht möglich. Die Spontan Reservation ist erst ab 08:30 Uhr möglich. Somit müsste ich die Sitzung um 08:05 starten und um 08:30 Uhr unterbrechen und draussen vor der Türe die Reservation aktivieren. Von 08:05 bis 08:30 Uhr bleibt die Anzeige grün, obwohl der Raum spontan besetzt ist. Muss genauer untersucht werden von Guido und Jürg : OK
+NOK: Think-Tank-Spontan-Reservation: Heute, 20.05.2022 um 08:05 wollte ich den Think-Tank im 242 von 08:05 bis 09:00 Uhr spontan reservieren. Dies ist nicht möglich. Die Spontan Reservation ist erst ab 08:30 Uhr möglich. Somit müsste ich die Sitzung um 08:05 starten und um 08:30 Uhr unterbrechen und draussen vor der Türe die Reservation aktivieren. Von 08:05 bis 08:30 Uhr bleibt die Anzeige grün, obwohl der Raum spontan besetzt ist. Muss genauer untersucht werden von Guido und Jürg : OK
 NOK 13.06.22 SiZi Monitor: Anzeige auch des Titels der Buchung: Klärung Marc mit Reserva, gemäss ICS File. NOK
->31.5.22 JZI: Raum 242- Outlook Reservation wird auch ca. 10 Min. nach der Reservation nicht am Display angezeigt. Es kommt zwar eine Fehlermeldung, dass keine Buchung mehr möglich ist. (ev. auf Testbertrieb zurückzuführen): NOK
+NOK: >31.5.22 JZI: Raum 242- Outlook Reservation wird auch ca. 10 Min. nach der Reservation nicht am Display angezeigt. Es kommt zwar eine Fehlermeldung, dass keine Buchung mehr möglich ist. (ev. auf Testbertrieb zurückzuführen): NOK
 >31.5.2022 JZI: Laufschrift 'Buchungsbeginn muss bestätigt werden' überdeckt teilweise eine Systemfehlermeldung 'Termin konnte nicht erstellt werden....' (siehe Foto Guido): NOK 13.6.22 Laufschrift kann nicht verwendet werden, muss mit Anleitung gelöst werden. OK
 NOK >31.5.2022 JZI: Auf Floorplan sollte ein Hinweis wie z.B. ein grosser Punkt angebracht werden, wo ich mich grad befinde um damit die Orientierung auf dem Plan zu erleichtern: NOK 13.6.22 kann realisiert werden: Marc
->31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: NOK     // das 2.0G kam von Guido statt 2.OG wird aber geändert von uns
->31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK   // nicht sofort, wird abgeklärt
+>31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: OK     // das 2.0G kam von Guido statt 2.OG wird aber geändert von uns
+NOK: >31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK   // nicht sofort, wird abgeklärt
 >31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: OK
 NOK 13.06.2022 JZI: Sensor/Tisch 242 3 und 4 noch nicht korrekt dargestellt: Sensor 4 zeigt Belegung an Tisch 3 an. 
 NOK 13.06.2022 JZI: Auf dem Gross-Display wird Propellerbar angezeigt an Stelle von Propeller-Bar (siehe Eintrag Nr. 14)
-NOK 13.06.2022 JZI: Anzeige 'Verfügbare Plätz' - sollte die 'grünen und blaen, verfügbaren' Arbeitsplätze ausweisen
+NOK 13.06.2022 JZI: Anzeige 'Verfügbare Plätz' - sollte die 'grünen und blaen, verfügbaren' Arbeitsplätze ausweisen und nicht das Total ./. gebuchte AP's
 NOK 13.06.2022 JZI: Stockwerkpläne im Mobilephone und Desktop können nicht gezoomt werden.
 NOK 13.06.2022 JZI: Die Darstellung im Mobilephone zeigt überlappende Darstellung für Fusszeile sowie Bookings, Felder für 'Verfügbar, Besetzt, Fix sind zu klein (nicht wirklich eine ansprechende Darstellung....)
+NOK 13.06.2022 JZI: Floor 3 und 4 fehlt die Büro Beschriftung (analog 2. Stock)

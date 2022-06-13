@@ -24,5 +24,5 @@ Think-Tank-Spontan-Reservation: Heute, 20.05.2022 um 08:05 wollte ich den Think-
 >31.5.2022 JZI: Auf Floorplan sollte ein Hinweis wie z.B. ein grosser Punkt angebracht werden, wo ich mich grad befinde um damit die Orientierung auf dem Plan zu erleichtern: NOK 13.6.22 kann realisiert werden: Marc
 >31.05.2022 JZI: Überschrift Floorplan 2. OG wird ein 0 anstelle eines O verwendet: NOK     // das 2.0G kam von Guido statt 2.OG wird aber geändert von uns
 >31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK   // nicht sofort, wird abgeklärt
->31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: NOK
+>31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: OK
 

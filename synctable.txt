@@ -26,7 +26,7 @@ NOK >31.5.2022 JZI: Auf Floorplan sollte ein Hinweis wie z.B. ein grosser Punkt 
 NOK: >31.05.2022 JZI: Kann Kudos-Lounge 242 auch mit grün/rot frei/belegt angezeigt werden?: NOK   // nicht sofort, wird abgeklärt
 >31.05.2022 JZI: Auf Floorplan bitte 'Aussentemperatur' und Verfügbare 'Arbeitsplätze' und beim Datum nach dem Tag einen . (Punkt) einfügen: OK
 NOK 13.06.2022 JZI: Sensor/Tisch 242 3 und 4 noch nicht korrekt dargestellt: Sensor 4 zeigt Belegung an Tisch 3 an. 
-NOK 13.06.2022 JZI: Auf dem Gross-Display wird Propellerbar angezeigt an Stelle von Propeller-Bar (siehe Eintrag Nr. 14)
+NOK 13.06.2022 JZI: Bookings: wird Propellerbar angezeigt an Stelle von Propeller-Bar (siehe Eintrag Nr. 14)
 NOK 13.06.2022 JZI: Anzeige 'Verfügbare Plätz' - sollte die 'grünen und blaen, verfügbaren' Arbeitsplätze ausweisen und nicht das Total ./. gebuchte AP's
 NOK 13.06.2022 JZI: Stockwerkpläne im Mobilephone und Desktop können nicht gezoomt werden.
 NOK 13.06.2022 JZI: Die Darstellung im Mobilephone zeigt überlappende Darstellung für Fusszeile sowie Bookings, Felder für 'Verfügbar, Besetzt, Fix sind zu klein (nicht wirklich eine ansprechende Darstellung....)

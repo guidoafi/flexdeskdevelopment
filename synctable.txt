@@ -31,3 +31,10 @@ NOK 13.06.2022 JZI: Anzeige 'Verfügbare Plätz' - sollte die 'grünen und blaue
 NOK 13.06.2022 JZI: Stockwerkpläne im Mobilephone und Desktop können nicht gezoomt werden.
 NOK 13.06.2022 JZI: Die Darstellung im Mobilephone zeigt überlappende Darstellung für Fusszeile sowie Bookings, Felder für 'Verfügbar, Besetzt, Fix sind zu klein (nicht wirklich eine ansprechende Darstellung....)
 NOK 13.06.2022 JZI: Floor 3 und 4 fehlt die Büro Beschriftung (analog 2. Stock)
+
+
+
+
+
+**** hold item list 
+Liste Bookings: Anzeige der Buchung von-bis
